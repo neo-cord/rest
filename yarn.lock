@@ -59,10 +59,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@neocord/common@1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@neocord/common/-/common-1.1.2.tgz#6d097b0678d518eb529f50dd01aee2d79451aef0"
-  integrity sha512-woatOGf/LNGtii8v1NXjRYlr689VUggSXziMLroiS/910ZxnyrkBTaw0q/sE0JpKDQCmf2vKjDsfVqLg/N05Pw==
+"@neocord/common@1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@neocord/common/-/common-1.1.4.tgz#2db0fb60600bd4dff7578ecf19cae8a929ff625d"
+  integrity sha512-JJtXA8Pk7NeYJbGWy0A2X86jqyhnUfRxz2aW0Y8t+A0hjomFtvcOi6miEm4L5JBBSgP9VcJ1fBhbEXhlj/rFEA==
 
 "@neocord/eslint-config@neo-cord/eslint-config":
   version "1.0.4"
