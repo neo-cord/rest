@@ -33,7 +33,7 @@
     "ava": "3.15.0",
     "eslint": "7.25.0",
     "form-data": "^4.0.0",
-    "typescript": "4.2.4"
+    "typescript": "4.3.4"
   },
   "dependencies": {
     "@neocord/common": "1.1.2",
